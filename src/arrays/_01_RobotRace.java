@@ -28,6 +28,7 @@ public static void main(String[] args) {
 robotStorage[robot].sparkle();
 robotStorage[robot].setSpeed(100);
 robotStorage[robot].turn(99999);
+
 }
 	//2. create an array of 5 robots.*
 
